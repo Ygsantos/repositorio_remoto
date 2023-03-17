@@ -36,7 +36,7 @@ def jogar():
 
         if lista == comparacao_palavra:
             print(f'Indice de acerto da palavra >> {lista}')
-            print('VOCE VENCEU ')
+            print('VOCE VENCEU! ')
             break
 
 
