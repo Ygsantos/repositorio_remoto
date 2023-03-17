@@ -1,5 +1,5 @@
 def jogar():
-    print('===== JOGO DA FORCA ====')
+    print('===== JOGO DA FORCA ATUALIZADO 1.0 ====')
 
     palavra_escolhida = input("DIGITE A PALAVRA A SER ENCONTRADA:  ")
     tamanho_da_palavra = len(palavra_escolhida)
