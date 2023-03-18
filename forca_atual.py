@@ -1,5 +1,5 @@
 def jogar():
-    print('===== JOGO DA FORCA ATUALIZADO 1.0 2.0 3.0 ====')
+    print('usrrr===== JOGO DA FORCA ATUALIZADO 1.0 2.0 3.0 ====')
 
 
 
